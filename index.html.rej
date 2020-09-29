@@ -1,0 +1,10 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -8,7 +8,7 @@
+ </head>
+ 
+ <body>
+-     <p>Мой первый сайт</p>
++     <p>АО «Почта России»</p>
+ </body>
+ 
+ </html>
